@@ -1,0 +1,25 @@
+{
+  "wine": 0,
+  "flavors": 1,
+  "fruit": 2,
+  "acidity": 3,
+  "finish": 4,
+  "aromas": 5,
+  "palate": 6,
+  "dry": 7,
+  "ripe": 8,
+  "red": 9,
+  "crisp": 10,
+  "fresh": 11,
+  "cherry": 12,
+  "drink": 13,
+  "apple": 14,
+  "sweet": 15,
+  "rich": 16,
+  "citrus": 17,
+  "full": 18,
+  "notes": 19,
+  "now": 20,
+  "...": 21
+}
+  

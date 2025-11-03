@@ -1,0 +1,21 @@
+{
+  "encoded": {
+    "0": {
+      "id": 0,
+      "label": "0.0",
+      "tokens": [
+        {
+          "token_hash": "0ce0d194256478f5c92056d6979a9fdfa1354ffd5e842432c50497e410cf07f8",
+          "pos": 1,
+          "mi_weight": 0.02098429234343984
+        },
+        {
+          "token_hash": "d15261b5cddbb61a7868114f1397075de1287b798ae064d147b82bcca93acaf5",
+          "pos": 2,
+          "mi_weight": 0.017060144473314217
+        }
+      ]
+    }
+  }
+}
+           
