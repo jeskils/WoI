@@ -7,8 +7,8 @@ My master’s thesis explores the use of **Mutual Information (MI)** in brain si
 
 Together, they bridge biological computation and artificial intelligence — showing how measurable information can unify both worlds.
 
-📄 [Master’s Thesis — “Evaluating the ability of Mutual Information to detect epileptic seizures in EEG data” (PDF)](docs/60HP.pdf) — archived  
-📄 [Concept Document — “Mutual Information as Information in Language” (PDF)](docs/concept.md) — archived  
+📄 [Master’s Thesis — “Evaluating the ability of Mutual Information to detect epileptic seizures in EEG data” (PDF)] 
+📄 [Concept Document] 
 
 ---
 
@@ -63,3 +63,5 @@ By extracting the words that describe a typical Red or White wine it is possible
 `Red Wine — Variety: Toro — Estimated Quality: 9.2 / 10`
 
 ---
+
+[def]: docs/concept.md
