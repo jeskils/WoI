@@ -6,8 +6,7 @@ The documents below represent the scientific and conceptual foundation of my wor
 My master’s thesis explores the use of **Mutual Information (MI)** in brain signal prediction, while the **concept document** extends this idea into **language modeling and information representation**, forming the basis for the *Word of Information (WoI)* framework.  
 
 Together, they bridge biological computation and artificial intelligence — showing how measurable information can unify both worlds.
-
-📄 [Master’s Thesis — “Evaluating the ability of Mutual Information to detect epileptic seizures in EEG data” (PDF)] 
+ 
 📄 [Concept Document] 
 
 ---
